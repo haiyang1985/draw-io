@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="27.0.9">
+  <diagram name="第 1 页" id="anw9OL1R-ftTwUgwoLaY">
+    <mxGraphModel dx="1426" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-2" value="关键词库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="29" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="39" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-4" value="bad case词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="676" y="39" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-6" value="效果分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="676" y="109" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-7" value="相关性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="89" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-8" value="多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="89" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="319" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-10" value="产品点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="349" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-11" value="价格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="149" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-12" value="点评" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="149" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-13" value="销量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="149" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-14" value="排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="89" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-15" value="搜索效果评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="39" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-16" value="点击覆盖率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="349" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-17" value="用户行为数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="319" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191" y="69" as="sourcePoint" />
+            <mxPoint x="261" y="69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="313" as="sourcePoint" />
+            <mxPoint x="419" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2CSO4Jg24EDpo7iPTBix-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="601" y="99" as="sourcePoint" />
+            <mxPoint x="656" y="99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
