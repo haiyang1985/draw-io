@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="第 1 页" id="Jvtxz6gNzcvWNJ_cCPNy">
+    <mxGraphModel dx="1425" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GXl6-crab59zqaZxclXJ-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="97" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="200" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-4" value="商品ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-5" value="词库DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-6" value="商品DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-7" value="度假搜索引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="97" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-8" value="大搜搜索引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-9" value="词性解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="152" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-11" value="词性解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-12" value="词库DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=12;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="137" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#006EAF;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#1ba1e2;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;labelBorderColor=default;fontColor=#ffffff;" vertex="1" parent="GXl6-crab59zqaZxclXJ-39">
+          <mxGeometry width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-42" value="召回策略" style="shape=partialRectangle;html=1;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="GXl6-crab59zqaZxclXJ-40">
+          <mxGeometry width="120" height="26" as="geometry">
+            <mxRectangle width="120" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-39">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-46" value="周边圈召回" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-44">
+          <mxGeometry width="120" height="26" as="geometry">
+            <mxRectangle width="120" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-39">
+          <mxGeometry y="52" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-50" value="新品召回" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-48">
+          <mxGeometry width="120" height="27" as="geometry">
+            <mxRectangle width="120" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-39">
+          <mxGeometry y="79" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-53" value="主题召回" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-52">
+          <mxGeometry width="120" height="26" as="geometry">
+            <mxRectangle width="120" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GXl6-crab59zqaZxclXJ-44" target="GXl6-crab59zqaZxclXJ-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-55" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=12;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="140" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#006EAF;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#1ba1e2;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;labelBorderColor=default;fontColor=#ffffff;" vertex="1" parent="GXl6-crab59zqaZxclXJ-55">
+          <mxGeometry width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-57" value="召回策略" style="shape=partialRectangle;html=1;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="GXl6-crab59zqaZxclXJ-56">
+          <mxGeometry width="120" height="26" as="geometry">
+            <mxRectangle width="120" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-55">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-59" value="周边圈召回" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-58">
+          <mxGeometry width="120" height="26" as="geometry">
+            <mxRectangle width="120" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-55">
+          <mxGeometry y="52" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-61" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;" vertex="1" parent="GXl6-crab59zqaZxclXJ-60">
+          <mxGeometry width="120" height="27" as="geometry">
+            <mxRectangle width="120" height="27" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GXl6-crab59zqaZxclXJ-12" target="GXl6-crab59zqaZxclXJ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GXl6-crab59zqaZxclXJ-5" target="GXl6-crab59zqaZxclXJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="440" as="sourcePoint" />
+            <mxPoint x="750" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-66" value="索引Job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GXl6-crab59zqaZxclXJ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="160" as="sourcePoint" />
+            <mxPoint x="800" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GXl6-crab59zqaZxclXJ-2" target="GXl6-crab59zqaZxclXJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="180" as="sourcePoint" />
+            <mxPoint x="155" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-69" value="度假ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-70" value="酒店ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="727" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GXl6-crab59zqaZxclXJ-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GXl6-crab59zqaZxclXJ-6" target="GXl6-crab59zqaZxclXJ-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="390" as="sourcePoint" />
+            <mxPoint x="560" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
