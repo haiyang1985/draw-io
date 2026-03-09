@@ -25,7 +25,7 @@
         <mxCell id="b1NxSpMfJZmOkZTuFM1_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="起价数据&lt;div&gt;Kafka&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="90" y="72" as="geometry" />
         </mxCell>
-        <mxCell id="b1NxSpMfJZmOkZTuFM1_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="搜索&lt;b&gt;rtp&lt;/b&gt;平台任务&lt;div&gt;(20分钟聚合到产品)&lt;/div&gt;" vertex="1">
+        <mxCell id="b1NxSpMfJZmOkZTuFM1_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="搜索&lt;b&gt;rtp&lt;/b&gt;平台任务&lt;div&gt;(20分钟聚合，产品维度)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="330" x="435" y="65" as="geometry" />
         </mxCell>
         <mxCell id="b1NxSpMfJZmOkZTuFM1_-12" edge="1" parent="1" source="b1NxSpMfJZmOkZTuFM1_-9" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" target="b1NxSpMfJZmOkZTuFM1_-10" value="">
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b1NxSpMfJZmOkZTuFM1_-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontSize=14;" value="1. pid" vertex="1">
-          <mxGeometry height="30" width="60" x="445" y="140" as="geometry" />
+          <mxGeometry height="30" width="60" x="457" y="140" as="geometry" />
         </mxCell>
         <mxCell id="b1NxSpMfJZmOkZTuFM1_-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontSize=14;" value="2. pid" vertex="1">
           <mxGeometry height="30" width="60" x="455" y="258" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry height="30" width="60" x="545" y="258" as="geometry" />
         </mxCell>
         <mxCell id="b1NxSpMfJZmOkZTuFM1_-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;fontSize=14;" value="6.priceList" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="140" as="geometry" />
+          <mxGeometry height="30" width="60" x="551" y="140" as="geometry" />
         </mxCell>
         <mxCell id="b1NxSpMfJZmOkZTuFM1_-63" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" value="起价Hive表" vertex="1">
           <mxGeometry height="90" width="140" x="80" y="410" as="geometry" />
