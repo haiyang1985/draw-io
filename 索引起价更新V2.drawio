@@ -112,7 +112,7 @@
             <mxPoint x="637" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VklP3csz-l4vpN26CxE-44" connectable="0" parent="1VklP3csz-l4vpN26CxE-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="2. 该城市的起价" vertex="1">
+        <mxCell id="1VklP3csz-l4vpN26CxE-44" connectable="0" parent="1VklP3csz-l4vpN26CxE-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="2. 所有城市的起价" vertex="1">
           <mxGeometry relative="1" x="-0.0803" y="-1" as="geometry">
             <mxPoint x="22" y="12" as="offset" />
           </mxGeometry>
@@ -134,7 +134,7 @@
             <mxPoint x="504" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VklP3csz-l4vpN26CxE-48" connectable="0" parent="1VklP3csz-l4vpN26CxE-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="2. 该城市的起价" vertex="1">
+        <mxCell id="1VklP3csz-l4vpN26CxE-48" connectable="0" parent="1VklP3csz-l4vpN26CxE-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="2. 所有城市的起价" vertex="1">
           <mxGeometry relative="1" x="0.0074" y="3" as="geometry">
             <mxPoint x="-21" y="15" as="offset" />
           </mxGeometry>
