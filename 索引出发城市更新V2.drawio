@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9WoVQYZXgTF3ExX7TyMX-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="" vertex="1">
+        <mxCell id="9WoVQYZXgTF3ExX7TyMX-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="440" width="300" x="1250" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="9WoVQYZXgTF3ExX7TyMX-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="" vertex="1">
+        <mxCell id="9WoVQYZXgTF3ExX7TyMX-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="440" width="280" x="1647" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="9WoVQYZXgTF3ExX7TyMX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="" vertex="1">
+        <mxCell id="9WoVQYZXgTF3ExX7TyMX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="440" width="240" x="860" y="40" as="geometry" />
         </mxCell>
         <mxCell id="9WoVQYZXgTF3ExX7TyMX-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="起价" vertex="1">
