@@ -79,14 +79,14 @@
         <mxCell id="W1o9xEHcWCxfsVUtonQH-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="搜索消费者(Rivers)" vertex="1">
           <mxGeometry height="30" width="135" x="711.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="W1o9xEHcWCxfsVUtonQH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.产品+出发城市" vertex="1">
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="1.产品+出发城市" vertex="1">
           <mxGeometry height="30" width="100" x="270" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="W1o9xEHcWCxfsVUtonQH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.该出发城市的班期和价格" vertex="1">
-          <mxGeometry height="30" width="90" x="180" y="335" as="geometry" />
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="2.该出发城市的班期和价格" vertex="1">
+          <mxGeometry height="30" width="90" x="210" y="335" as="geometry" />
         </mxCell>
-        <mxCell id="W1o9xEHcWCxfsVUtonQH-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.产品维度的可出发班期" vertex="1">
-          <mxGeometry height="30" width="96" x="564" y="350" as="geometry" />
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="3.产品维度的可出发班期" vertex="1">
+          <mxGeometry height="30" width="96" x="580" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
