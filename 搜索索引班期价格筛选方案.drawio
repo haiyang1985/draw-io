@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="第 1 页" id="6jXNn0pnYaDrzYzruzkZ">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="460" width="190" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="班期kafka消息" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="起价" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-4" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" value="查询班期接口&lt;div&gt;(三要素)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="460" width="250" x="300" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="搜索flink任务" vertex="1">
+          <mxGeometry height="30" width="95" x="377.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="对kafka消息聚合" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="对班期压缩" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="460" width="310" x="624" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="消费消息写ES" vertex="1">
+          <mxGeometry height="60" width="120" x="671" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-11" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" value="ES" vertex="1">
+          <mxGeometry height="70" width="70" x="824" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-12" edge="1" parent="1" source="W1o9xEHcWCxfsVUtonQH-2" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" target="W1o9xEHcWCxfsVUtonQH-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-190" y="270" as="sourcePoint" />
+            <mxPoint x="-140" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-15" edge="1" parent="1" source="W1o9xEHcWCxfsVUtonQH-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="W1o9xEHcWCxfsVUtonQH-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="270" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-16" edge="1" parent="1" source="W1o9xEHcWCxfsVUtonQH-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" target="W1o9xEHcWCxfsVUtonQH-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-110" y="420" as="sourcePoint" />
+            <mxPoint x="-60" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="构建并发送消息" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-18" edge="1" parent="1" source="W1o9xEHcWCxfsVUtonQH-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" target="W1o9xEHcWCxfsVUtonQH-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="600" as="sourcePoint" />
+            <mxPoint x="470" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-19" edge="1" parent="1" source="W1o9xEHcWCxfsVUtonQH-17" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" target="W1o9xEHcWCxfsVUtonQH-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="430" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-20" edge="1" parent="1" source="W1o9xEHcWCxfsVUtonQH-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" target="W1o9xEHcWCxfsVUtonQH-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="784" y="260" as="sourcePoint" />
+            <mxPoint x="834" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="搜索消费者(Rivers)" vertex="1">
+          <mxGeometry height="30" width="135" x="711.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.产品+出发城市" vertex="1">
+          <mxGeometry height="30" width="100" x="270" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.该出发城市的班期和价格" vertex="1">
+          <mxGeometry height="30" width="90" x="180" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.产品维度的可出发班期" vertex="1">
+          <mxGeometry height="30" width="96" x="564" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
