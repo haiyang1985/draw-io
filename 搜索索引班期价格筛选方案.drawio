@@ -82,8 +82,8 @@
         <mxCell id="W1o9xEHcWCxfsVUtonQH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="1.产品" vertex="1">
           <mxGeometry height="30" width="66" x="254" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="W1o9xEHcWCxfsVUtonQH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="3.该出发城市的班期和价格" vertex="1">
-          <mxGeometry height="30" width="90" x="240" y="380" as="geometry" />
+        <mxCell id="W1o9xEHcWCxfsVUtonQH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="3.班期和价格" vertex="1">
+          <mxGeometry height="30" width="90" x="240" y="410" as="geometry" />
         </mxCell>
         <mxCell id="W1o9xEHcWCxfsVUtonQH-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="3.产品维度的可出发班期" vertex="1">
           <mxGeometry height="30" width="96" x="580" y="320" as="geometry" />
