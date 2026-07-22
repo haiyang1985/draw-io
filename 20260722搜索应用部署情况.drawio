@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="H00NGr4SfM2_A4JfHXxi">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CCiWWcbrdknQFpc56PPV-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="20" y="234" as="sourcePoint" />
+            <mxPoint x="890" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ElasticSearch&lt;div&gt;(度假)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="119" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ElasticSearch&lt;div&gt;(玩乐)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="265" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ElasticSearch&lt;div&gt;(邮轮)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="405" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ElasticSearch&lt;div&gt;(联想词)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="530" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="pkgSearchDB" vertex="1">
+          <mxGeometry height="60" width="110" x="662.5" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存储层" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="引擎" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="restful" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="900" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;列表卡片&lt;/div&gt;100029227" vertex="1">
+          <mxGeometry height="45" width="105" x="119" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;offline&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100004048&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="265" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;搜索后台&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100013825&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="665" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;词库POI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100027042&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="796" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;搜索引擎&lt;/div&gt;100009449" vertex="1">
+          <mxGeometry height="45" width="105" x="119" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" value="&lt;div&gt;搜索引擎(玩乐)&lt;/div&gt;100015129" vertex="1">
+          <mxGeometry height="45" width="105" x="265" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;召回&lt;/div&gt;100023358" vertex="1">
+          <mxGeometry height="45" width="105" x="119" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;联想词&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100027938&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="405" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100026479&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="405" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;玩乐引擎&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100010839&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="405" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;无少结果&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100014626&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="530" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" value="&lt;div&gt;玩法搜索&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;100026868&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="105" x="265" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCiWWcbrdknQFpc56PPV-26" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ttdSearchDB" vertex="1">
+          <mxGeometry height="60" width="110" x="796" y="259" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
