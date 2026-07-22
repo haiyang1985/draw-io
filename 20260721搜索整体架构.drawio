@@ -67,6 +67,12 @@
             <mxPoint x="540" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ID8xOawOgji8Wly3PIcA-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="商品供给率" vertex="1">
+          <mxGeometry height="50" width="100" x="150" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ID8xOawOgji8Wly3PIcA-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="商品模型" vertex="1">
+          <mxGeometry height="50" width="100" x="320" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
