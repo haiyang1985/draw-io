@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AvG_c36IIgYum5UhlgUA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=8 8;fontSize=15;" value="" vertex="1">
-          <mxGeometry height="150" width="650" x="70" y="690" as="geometry" />
+          <mxGeometry height="150" width="650" x="70" y="735" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;" value="" vertex="1">
-          <mxGeometry height="110" width="650" x="70" y="205" as="geometry" />
+          <mxGeometry height="165" width="650" x="70" y="205" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;" value="" vertex="1">
           <mxGeometry height="100" width="650" x="70" y="50" as="geometry" />
@@ -17,49 +17,52 @@
           <mxGeometry height="50" width="110" x="140" y="75" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;analyze&lt;br&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;词库&amp;nbsp; 机械分词&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="150" x="140" y="230" as="geometry" />
+          <mxGeometry height="70" width="150" x="110" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=15;" value="语音输入" vertex="1">
-          <mxGeometry height="50" width="110" x="330" y="75" as="geometry" />
+          <mxGeometry height="50" width="110" x="350" y="75" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=15;" value="旅行顾问" vertex="1">
           <mxGeometry height="50" width="110" x="560" y="75" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;llmAnalyze&lt;br&gt;&lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;大模型抽槽&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="150" x="450" y="230" as="geometry" />
+          <mxGeometry height="70" width="150" x="420" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LAPPyu40WlBwZyNSjhDu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;" value="" vertex="1">
-          <mxGeometry height="265" width="650" x="70" y="375" as="geometry" />
+          <mxGeometry height="265" width="650" x="70" y="420" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" value="召回决策层" vertex="1">
-          <mxGeometry height="50" width="490" x="160" y="400" as="geometry" />
+          <mxGeometry height="50" width="490" x="160" y="445" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="结构化召回" vertex="1">
-          <mxGeometry height="140" width="100" x="160" y="470" as="geometry" />
+          <mxGeometry height="140" width="100" x="160" y="515" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="文本召回" vertex="1">
-          <mxGeometry height="140" width="100" x="355" y="470" as="geometry" />
+          <mxGeometry height="140" width="100" x="355" y="515" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="向量召回" vertex="1">
-          <mxGeometry height="140" width="100" x="550" y="470" as="geometry" />
+          <mxGeometry height="140" width="100" x="550" y="515" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1" value="结构化索引" vertex="1">
-          <mxGeometry height="80" width="110" x="180" y="720" as="geometry" />
+          <mxGeometry height="80" width="110" x="180" y="765" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-7" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1" value="商品档案" vertex="1">
-          <mxGeometry height="80" width="110" x="470" y="720" as="geometry" />
+          <mxGeometry height="80" width="110" x="470" y="765" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="用户端" vertex="1">
           <mxGeometry height="30" width="60" x="10" y="80" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1;fontColor=#666600;" value="语义解析" vertex="1">
-          <mxGeometry height="30" width="60" x="10" y="250" as="geometry" />
+          <mxGeometry height="30" width="70" y="280" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1;fontColor=#004C99;" value="召回" vertex="1">
-          <mxGeometry height="30" width="60" x="10" y="492.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="10" y="537.5" as="geometry" />
         </mxCell>
         <mxCell id="AvG_c36IIgYum5UhlgUA-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1;fontColor=#009900;" value="数据层" vertex="1">
-          <mxGeometry height="30" width="60" x="10" y="740" as="geometry" />
+          <mxGeometry height="30" width="60" x="10" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="AvG_c36IIgYum5UhlgUA-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="预抽槽" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
