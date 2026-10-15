@@ -64,10 +64,10 @@
         <mxCell id="hOAbb61P7gc9j7F-kvmQ-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="结构化条件" vertex="1">
           <mxGeometry height="30" width="90" x="550" y="-832" as="geometry" />
         </mxCell>
-        <mxCell id="hOAbb61P7gc9j7F-kvmQ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" value="前端" vertex="1">
+        <mxCell id="hOAbb61P7gc9j7F-kvmQ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" value="前端" vertex="1">
           <mxGeometry height="60" width="120" x="490" y="-1092" as="geometry" />
         </mxCell>
-        <mxCell id="hOAbb61P7gc9j7F-kvmQ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" value="联想词" vertex="1">
+        <mxCell id="hOAbb61P7gc9j7F-kvmQ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" value="联想词" vertex="1">
           <mxGeometry height="60" width="120" x="264" y="-1092" as="geometry" />
         </mxCell>
         <mxCell id="hOAbb61P7gc9j7F-kvmQ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" value="llmAnalyze" vertex="1">
