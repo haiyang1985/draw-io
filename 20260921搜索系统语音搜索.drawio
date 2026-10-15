@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FQDXM5k26yZsbYAmPUxD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=21;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="110" width="510" x="56" y="551" as="geometry" />
+        </mxCell>
+        <mxCell id="FQDXM5k26yZsbYAmPUxD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=21;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="110" width="510" x="56" y="369" as="geometry" />
+        </mxCell>
+        <mxCell id="FQDXM5k26yZsbYAmPUxD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=21;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="110" width="510" x="56" y="185" as="geometry" />
+        </mxCell>
         <mxCell id="ATFdHMbu6QctPb44wKNQ-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ES" vertex="1">
           <mxGeometry height="80" width="100" x="105" y="570" as="geometry" />
         </mxCell>
@@ -62,7 +71,7 @@
           <mxGeometry height="30" width="60" x="276" y="369" as="geometry" />
         </mxCell>
         <mxCell id="ATFdHMbu6QctPb44wKNQ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="结构化(POI + 筛选)" vertex="1">
-          <mxGeometry height="30" width="90" x="160" y="495" as="geometry" />
+          <mxGeometry height="30" width="119" x="170" y="495" as="geometry" />
         </mxCell>
         <mxCell id="ATFdHMbu6QctPb44wKNQ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" value="前端" vertex="1">
           <mxGeometry height="60" width="120" x="96" y="70" as="geometry" />
@@ -108,15 +117,6 @@
         </mxCell>
         <mxCell id="ATFdHMbu6QctPb44wKNQ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="结构化条件" vertex="1">
           <mxGeometry height="30" width="80" x="160" y="315" as="geometry" />
-        </mxCell>
-        <mxCell id="FQDXM5k26yZsbYAmPUxD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=21;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="110" width="510" x="56" y="551" as="geometry" />
-        </mxCell>
-        <mxCell id="FQDXM5k26yZsbYAmPUxD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=21;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="110" width="510" x="56" y="369" as="geometry" />
-        </mxCell>
-        <mxCell id="FQDXM5k26yZsbYAmPUxD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=21;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="110" width="510" x="56" y="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
